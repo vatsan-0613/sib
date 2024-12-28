@@ -21,6 +21,18 @@ body{
     padding: 10px 20px;
 }
 
+.desc-text{
+    color : rgba(55, 52, 53, 1);
+}
+
+.blue-txt{
+    color : rgba(0, 175, 239, 1);
+}
+
+#stats{
+    margin-top: 7%;
+}
+
 @media (max-width: 992px) {
     .hero-img{
         width: 350px;
@@ -28,5 +40,9 @@ body{
     }
     .hero-text{
         margin-bottom: 25px !important;
+    }
+
+    .desc-text{
+        text-align: justify;
     }
 }
