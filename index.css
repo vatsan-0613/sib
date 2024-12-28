@@ -33,6 +33,11 @@ body{
     margin-top: 7%;
 }
 
+.icon-1{
+    top : -75%;
+    right : 8% ;
+}
+
 @media (max-width: 992px) {
     .hero-img{
         width: 350px;
