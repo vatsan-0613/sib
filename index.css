@@ -20,3 +20,13 @@ body{
     border-radius: 4px;
     padding: 10px 20px;
 }
+
+@media (max-width: 992px) {
+    .hero-img{
+        width: 350px;
+        margin-bottom: 8%;
+    }
+    .hero-text{
+        margin-bottom: 25px !important;
+    }
+}
